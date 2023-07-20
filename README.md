@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CSDisciple
+- 👋 Hi, I’m @csdisciple
 - 👀 I’m interested in everything tech related, hardware, software, artificial intelligence and other tools that make our everyday life easier.
 - 🌱 I’m currently learning Rust
 
