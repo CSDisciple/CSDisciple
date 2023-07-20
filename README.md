@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CSDisciple
 - 👀 I’m interested in everything tech related, hardware, software, artificial intelligence and other tools that make our everyday life easier.
-- 🌱 I’m currently learning React.js, Node.js with SpringBoot and MySQL/PostgreSQL backend
-- 💞️ I’m looking to collaborate on fullstack applications
-- 📫 How to reach me: oleksandrstasyev@gmail.com
+- 🌱 I’m currently learning Rust
+
 
 
 <p align="center">
